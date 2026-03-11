@@ -65,41 +65,6 @@
 </p>
 </header>
 
-<!-- README_HEADER_START -->
-<header>
-<h1 align="center">
-  <a href="https://github.com/jdecorte-be/42-libft"><img src=".assets/banner.png" alt="42-libft" ></a>
-  42-libft
-  <br>
-</h1>
-
-  <p align="center">My own library of useful functions in C.</p>
-
-<p align="center">
-  <a href="https://github.com/jdecorte-be/42-libft">
-    <img src="https://shields.io/github/stars/jdecorte-be/42-libft?logo=star&logoColor=white&labelColor=000000&color=yellow" alt="42-libft badge">
-  </a>
-  <a href="https://github.com/jdecorte-be/42-libft">
-    <img src="https://shields.io/github/issues/jdecorte-be/42-libft?logoColor=white&labelColor=000000&color=orange" alt="42-libft badge">
-  </a>
-  <a href="https://github.com/jdecorte-be/42-libft">
-    <img src="https://shields.io/github/repo-size/jdecorte-be/42-libft?logo=database&logoColor=white&labelColor=000000&color=purple" alt="42-libft badge">
-  </a>
-  <a href="https://github.com/jdecorte-be/42-libft">
-    <img src="https://shields.io/github/languages/top/jdecorte-be/42-libft?logo=code&logoColor=white&labelColor=000000&color=green" alt="42-libft badge">
-  </a>
-</p>
-<p align="center">
-  <a href="#pushpin-index">:pushpin: Index</a> •
-  <a href="#sparkles-what-is-libft">:sparkles: What is Libft?</a> •
-  <a href="#bookmarktabs-list-of-fucntions">:bookmark_tabs: List of Fucntions</a> •
-  <a href="#functions-from-ctypeh">Functions from `<ctype.h>`</a> •
-  <a href="#functions-from-stringh">Functions from `<string.h>`</a> •
-  <a href="#functions-from-stdlibh">Functions from `<stdlib.h>`</a> •
-  <a href="#non-standard-functions">Non-standard functions</a>
-</p>
-</header>
-<!-- README_HEADER_END -->
 
 # :pushpin: Index
 
