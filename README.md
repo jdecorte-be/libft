@@ -1,3 +1,70 @@
+<header>
+<h1 align="center">
+  <a href="https://github.com/jdecorte-be/libft"><img src=".assets/banner.png" alt="libft" ></a>
+  libft
+  <br>
+</h1>
+
+<p align="center">
+  A custom C library featuring re-implementations of standard libc functions and other useful utilities. A core project for the 42 school curriculum.
+</p>
+
+<p align="center">
+<a href="https://www.42.fr/">
+    <img src="https://img.shields.io/badge/42%20School-Project-00B8BB?logo=42&logoColor=white&labelColor=000000"
+         alt="42 School Project">
+  </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Focus-System%20Programming-555555?logo=c&logoColor=white&labelColor=000000"
+         alt="Focus System Programming">
+  </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Type-Static%20Library-007EC6?logo=c&logoColor=white&labelColor=000000"
+         alt="Type Static Library">
+  </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Linux-lightgrey?logo=apple&logoColor=white&labelColor=000000"
+         alt="Platform macOS | Linux">
+  </a>
+</p>
+
+<p align="center">
+<a href="#">
+    <img src="https://img.shields.io/badge/Standard-libc-A42E2B?logo=c&logoColor=white&labelColor=000000"
+         alt="Standard libc">
+  </a>
+  <a href="https://github.com/jdecorte-be/libft/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-AE81FF?labelColor=000000"
+         alt="libft license">
+  </a>
+  <a href="https://github.com/jdecorte-be/libft/stargazers">
+    <img src="https://img.shields.io/github/stars/jdecorte-be/libft?logo=star&logoColor=white&labelColor=000000&color=E6DB74"
+         alt="libft stars">
+  </a>
+  <a href="https://github.com/jdecorte-be/libft/issues">
+    <img src="https://img.shields.io/github/issues/jdecorte-be/libft?logoColor=white&labelColor=000000&color=orange"
+         alt="libft issues">
+  </a>
+  <a href="https://github.com/jdecorte-be/libft">
+    <img src="https://img.shields.io/github/repo-size/jdecorte-be/libft?logo=database&logoColor=white&labelColor=000000&color=AE81FF"
+         alt="libft repo size">
+  </a>
+  <a href="https://github.com/jdecorte-be/libft">
+    <img src="https://img.shields.io/github/languages/top/jdecorte-be/libft?logo=code&logoColor=white&labelColor=000000&color=A6E22E"
+         alt="libft top language">
+  </a>
+</p>
+<p align="center">
+  <a href="#pushpin-index">:pushpin: Index</a> •
+  <a href="#sparkles-what-is-libft">:sparkles: What is Libft?</a> •
+  <a href="#bookmarktabs-list-of-fucntions">:bookmark_tabs: List of Fucntions</a> •
+  <a href="#functions-from-ctypeh">Functions from `<ctype.h>`</a> •
+  <a href="#functions-from-stringh">Functions from `<string.h>`</a> •
+  <a href="#functions-from-stdlibh">Functions from `<stdlib.h>`</a> •
+  <a href="#non-standard-functions">Non-standard functions</a>
+</p>
+</header>
+
 <!-- README_HEADER_START -->
 <header>
 <h1 align="center">
